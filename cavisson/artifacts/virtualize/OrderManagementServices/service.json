@@ -1,28 +1,10 @@
 {
     "serviceName": "serviceAutomation",
     "configuration": {
-        "serviceTime": "3000"
+        "serviceTime": "500"
     },
    
-    "parameters": [
-   {
-     "name": "param1",
-     "type": "dataset",
-     "headerLineno": 1,
-     "columnDelim": ",",
-     "fileName": "dataset1.txt",
-     "ignoreInvalidLine": "YES"
-   },
-   {
-     "name": "param2",
-     "type": "dataset",
-     "headerLineno": 1,
-     "columnDelim": ",",
-     "fileName": "dataset2.txt",
-     "ignoreInvalidLine": "YES"
-   }
- ]
-
+    
 
 
 
