@@ -2,6 +2,6 @@
     "serviceName": "serviceAutomation",
     "configuration": {
         "serviceTime": "500"
-    },
+    }
    
 }
