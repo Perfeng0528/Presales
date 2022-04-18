@@ -1,4 +1,4 @@
-POST /loyalty/loyaltyservice/v3 HTTP/1.1
+POST /loyalty/loyaltyservice/v4 HTTP/1.1
 
 <?xml version="1.0" encoding="UTF-8"?>
 <soap:Envelope>
