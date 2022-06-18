@@ -1,7 +1,7 @@
 {
     "serviceName": "Loyalty",
     "configuration": {
-        "serviceTime": "1500"
+        "serviceTime": "800"
     },
    
     "parameters": [
