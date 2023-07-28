@@ -1,0 +1,14 @@
+inputSet:
+  name: Build_Presales_1690521252817-push-trigger-input-set
+  identifier: Build_Presales_1690521252817pushtriggerinputset
+  orgIdentifier: default
+  projectIdentifier: default_project
+  pipeline:
+    identifier: Build_Presales_1690521252817
+    properties:
+      ci:
+        codebase:
+          build:
+            type: branch
+            spec:
+              branch: <+trigger.branch>
